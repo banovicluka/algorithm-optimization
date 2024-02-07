@@ -1,0 +1,14 @@
+C:\Users\Yoga12\source\repos\Optimizacija_algoritma\Optimizacija_algoritma\bin\Debug\Optimizacija_algoritma.exe.config
+C:\Users\Yoga12\source\repos\Optimizacija_algoritma\Optimizacija_algoritma\bin\Debug\Optimizacija_algoritma.exe
+C:\Users\Yoga12\source\repos\Optimizacija_algoritma\Optimizacija_algoritma\bin\Debug\Optimizacija_algoritma.pdb
+C:\Users\Yoga12\source\repos\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.csprojAssemblyReference.cache
+C:\Users\Yoga12\source\repos\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.csproj.CoreCompileInputs.cache
+C:\Users\Yoga12\source\repos\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.exe
+C:\Users\Yoga12\source\repos\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.pdb
+C:\Users\WIN10\Downloads\arhitekture\Optimizacija_algoritma\Optimizacija_algoritma\bin\Debug\Optimizacija_algoritma.exe.config
+C:\Users\WIN10\Downloads\arhitekture\Optimizacija_algoritma\Optimizacija_algoritma\bin\Debug\Optimizacija_algoritma.exe
+C:\Users\WIN10\Downloads\arhitekture\Optimizacija_algoritma\Optimizacija_algoritma\bin\Debug\Optimizacija_algoritma.pdb
+C:\Users\WIN10\Downloads\arhitekture\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.csprojAssemblyReference.cache
+C:\Users\WIN10\Downloads\arhitekture\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Downloads\arhitekture\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.exe
+C:\Users\WIN10\Downloads\arhitekture\Optimizacija_algoritma\Optimizacija_algoritma\obj\Debug\Optimizacija_algoritma.pdb
